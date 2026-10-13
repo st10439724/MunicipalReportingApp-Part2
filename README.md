@@ -159,10 +159,6 @@ maximised; everything resizes with it.
 Test this to see the recommendations change: search for `music`, open two
 *Culture & Arts* events, then look at the **Recommended for you** panel.
 
-> **Logo:** the Sol Plaatje Municipality logo is compiled into the program as an
-> embedded resource (`Images/SolPlaatjeLogo.png`, set in the `.csproj`), so it
-> shows on the main menu and the Events page without any extra files. To use a
-> different picture, replace that file (keep the same name) and rebuild.
 
 > **Sample data:** the events and announcements are built in
 > (`Services/EventRepository.cs`, method `SeedSampleData`). Their dates are
