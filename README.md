@@ -130,7 +130,7 @@ an application restart during testing/demo.
 ## 5\. Part 2 — Local Events and Announcements: how to use it
 
 Click **Local Events and Announcements** on the main menu. The window opens
-maximised; everything resizes with it.
+maximised.
 
 1. **Announcements strip (top)** — coloured cards, most urgent first
    (red = urgent, amber = important, blue = general). Click a card to read the
